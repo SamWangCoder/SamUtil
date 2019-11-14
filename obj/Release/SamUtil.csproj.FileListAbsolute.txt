@@ -1,0 +1,5 @@
+D:\Ysh\0000_Tools_Data\SamUtil\bin\Release\SamUtil.dll
+D:\Ysh\0000_Tools_Data\SamUtil\bin\Release\SamUtil.pdb
+D:\Ysh\0000_Tools_Data\SamUtil\obj\Release\SamUtil.csproj.CoreCompileInputs.cache
+D:\Ysh\0000_Tools_Data\SamUtil\obj\Release\SamUtil.dll
+D:\Ysh\0000_Tools_Data\SamUtil\obj\Release\SamUtil.pdb
